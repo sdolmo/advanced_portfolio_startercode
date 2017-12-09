@@ -2,8 +2,17 @@
 
 
 /* Header CSS */
+.header{
+    margin-top: 100px;
+}
 
+.carousel-inner {
+    height: 170px;
+}
 
+.carousel-image {
+    margin: 10px 0;
+}
 
 /* Section CSS */
 
